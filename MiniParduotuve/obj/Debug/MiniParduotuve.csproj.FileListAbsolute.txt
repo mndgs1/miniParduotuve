@@ -1,0 +1,10 @@
+C:\Users\minda\source\repos\MiniParduotuve\MiniParduotuve\bin\Debug\MiniParduotuve.exe.config
+C:\Users\minda\source\repos\MiniParduotuve\MiniParduotuve\bin\Debug\MiniParduotuve.exe
+C:\Users\minda\source\repos\MiniParduotuve\MiniParduotuve\bin\Debug\MiniParduotuve.pdb
+C:\Users\minda\source\repos\MiniParduotuve\MiniParduotuve\obj\Debug\MiniParduotuve.csprojAssemblyReference.cache
+C:\Users\minda\source\repos\MiniParduotuve\MiniParduotuve\obj\Debug\MiniParduotuve.Properties.Resources.resources
+C:\Users\minda\source\repos\MiniParduotuve\MiniParduotuve\obj\Debug\MiniParduotuve.csproj.GenerateResource.cache
+C:\Users\minda\source\repos\MiniParduotuve\MiniParduotuve\obj\Debug\MiniParduotuve.csproj.CoreCompileInputs.cache
+C:\Users\minda\source\repos\MiniParduotuve\MiniParduotuve\obj\Debug\MiniParduotuve.exe
+C:\Users\minda\source\repos\MiniParduotuve\MiniParduotuve\obj\Debug\MiniParduotuve.pdb
+C:\Users\minda\source\repos\MiniParduotuve\MiniParduotuve\obj\Debug\MiniParduotuve.ShopForm.resources
